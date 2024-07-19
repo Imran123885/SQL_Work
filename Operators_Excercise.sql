@@ -1,0 +1,3 @@
+-- SELECT * FROM books WHERE released_year < 1980;
+-- SELECT * FROM books WHERE author_lname = 'Eggers' OR author_lname = 'Chabon';
+-- SELECT * FROM books WHERE author_lname LIKE 'C%' OR 'S%';
